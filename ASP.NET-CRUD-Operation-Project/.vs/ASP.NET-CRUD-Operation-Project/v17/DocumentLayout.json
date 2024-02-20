@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|c:\\users\\abhijith ajay\\desktop\\asp.net-crud-operation-project\\asp.net-crud-operation-project\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|c:\\users\\abhijith ajay\\desktop\\asp.net-crud-operation-project\\asp.net-crud-operation-project\\models\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|solutionrelative:models\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|c:\\users\\abhijith ajay\\desktop\\asp.net-crud-operation-project\\asp.net-crud-operation-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|c:\\users\\abhijith ajay\\desktop\\asp.net-crud-operation-project\\asp.net-crud-operation-project\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|c:\\users\\abhijith ajay\\desktop\\asp.net-crud-operation-project\\asp.net-crud-operation-project\\views\\employees\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|solutionrelative:views\\employees\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|c:\\users\\abhijith ajay\\desktop\\asp.net-crud-operation-project\\asp.net-crud-operation-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Views\\Employees\\Add.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employees\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Views\\Employees\\Add.cshtml",
-              "RelativeToolTip": "Views\\Employees\\Add.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-20T07:40:01.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "Controllers\\EmployeesController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCAAAABAAAAA",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Models\\Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Employee.cs",
+              "ToolTip": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Models\\Domain\\Employee.cs",
+              "RelativeToolTip": "Models\\Domain\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T07:16:41.665Z",
+              "WhenOpened": "2024-02-20T18:06:08.611Z",
               "EditorCaption": ""
             },
             {
@@ -58,9 +53,48 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAABaAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-20T06:58:46.913Z",
+              "WhenOpened": "2024-02-20T17:57:27.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T17:44:30.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Views\\Employees\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Views\\Employees\\Add.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T07:40:01.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T07:16:41.665Z",
               "EditorCaption": ""
             }
           ]
