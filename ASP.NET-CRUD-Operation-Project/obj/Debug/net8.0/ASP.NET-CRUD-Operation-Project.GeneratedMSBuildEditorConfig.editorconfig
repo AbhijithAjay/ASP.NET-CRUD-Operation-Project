@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Abhijith Ajay\Desktop\ASP.NET-CRUD-Operation-Project\ASP.NET-CRUD-Operation-Project
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Abhijith Ajay/Desktop/ASP.NET-CRUD-Operation-Project/ASP.NET-CRUD-Operation-Project/Views/Employees/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Abhijith Ajay/Desktop/ASP.NET-CRUD-Operation-Project/ASP.NET-CRUD-Operation-Project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
