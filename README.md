@@ -24,7 +24,8 @@ https://github.com/AbhijithAjay/ASP.NET-CRUD-Operation-Project.git
 2. **Navigate to the Project Directory:**
 cd ASP.NET-CRUD-Operation-Project
 
---One more time because the projrct file is stored in another folder
+`One more time because the project file is stored in ASP.NET-CRUD-Operation-Project folder`
+
 cd ASP.NET-CRUD-Operation-Project
 
 3. **Restore Dependencies:**
