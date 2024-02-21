@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.NET-CRUD-Operation-Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+939816c4e47b23bcf96cbaa8b357d6a6ab0a0dbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84323cf27eca50c11703daf54cb54cd498597947")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.NET-CRUD-Operation-Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.NET-CRUD-Operation-Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
