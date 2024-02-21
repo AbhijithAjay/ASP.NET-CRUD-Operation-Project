@@ -1,5 +1,5 @@
-                                                            Employee management 
-                                                        ---------------------------
+## Employee management 
+
 This project is an Employee Management System built using ASP.NET. It allows users to manage employee records, including adding new employees, updating details, and deleting employees from the system.
 
 ## Features
