@@ -11,10 +11,6 @@
       "RelativeMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|c:\\users\\abhijith ajay\\desktop\\asp.net-crud-operation-project\\asp.net-crud-operation-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|c:\\users\\abhijith ajay\\desktop\\asp.net-crud-operation-project\\asp.net-crud-operation-project\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1CD93EDD-F2F3-4D0A-9725-EE7CF8B01932}|ASP.NET-CRUD-Operation-Project.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -46,8 +42,7 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-02-21T07:38:31.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T07:38:31.247Z"
             },
             {
               "$type": "Document",
@@ -57,14 +52,14 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAB3AAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-21T07:31:32.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Views\\Employees\\Add.cshtml",
               "RelativeDocumentMoniker": "Views\\Employees\\Add.cshtml",
@@ -76,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Views\\Employees\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
@@ -88,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "View.cshtml",
               "DocumentMoniker": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Views\\Employees\\View.cshtml",
               "RelativeDocumentMoniker": "Views\\Employees\\View.cshtml",
@@ -97,19 +92,6 @@
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-21T05:42:24.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Abhijith Ajay\\Desktop\\ASP.NET-CRUD-Operation-Project\\ASP.NET-CRUD-Operation-Project\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-21T05:02:39.618Z",
-              "EditorCaption": ""
             }
           ]
         }

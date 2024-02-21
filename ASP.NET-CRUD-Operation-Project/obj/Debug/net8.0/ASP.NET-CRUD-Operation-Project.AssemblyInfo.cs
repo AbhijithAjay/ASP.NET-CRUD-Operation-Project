@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.NET-CRUD-Operation-Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0448a1954be3c83438fc876f3eb226da99cfeeb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ff08437f150606b8a03de1efb42f272b66bdf26")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.NET-CRUD-Operation-Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.NET-CRUD-Operation-Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
